@@ -104,8 +104,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
-</br>
+![output](https://github.com/jhansi21005096/Image-acquisition-from-web-camera/blob/main/image.jpeg)
 
 
 ### ii) Display the video
